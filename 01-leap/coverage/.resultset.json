@@ -1,0 +1,25 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/bennettrahn/ada/weekend-warrior/01-leap/leap.rb": [
+        1,
+        7,
+        5,
+        3,
+        2,
+        null,
+        1,
+        null,
+        2,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1504110785
+  }
+}

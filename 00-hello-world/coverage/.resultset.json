@@ -1,0 +1,16 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/bennettrahn/ada/weekend-warrior/00-hello-world/hello_world.rb": [
+        1,
+        4,
+        2,
+        null,
+        2,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1504110335
+  }
+}
